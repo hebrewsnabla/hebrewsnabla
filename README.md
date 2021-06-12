@@ -6,6 +6,10 @@ My experience
 Research topics
 * Multireference QC methods
 
+Elsewhere
+* [gitlab.com/jeanwsr](https://gitlab.com/jeanwsr)
+* [git.nju.edu.cn/wsr](https://git.nju.edu.cn/wsr)
+
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hebrewsnabla&count_private=true&show_icons=true)
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebrewsnabla)
  
