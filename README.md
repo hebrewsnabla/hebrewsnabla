@@ -6,7 +6,7 @@ My experience
 Research topics
 * Multireference QC methods
 
-Blog [blog-quoi.readthedocs.io/](http://blog-quoi.readthedocs.io/)
+Blog [hebrewsnabla.github.io/blog](https://hebrewsnabla.github.io/blog)
 
 Elsewhere [gitlab.com/jeanwsr](https://gitlab.com/jeanwsr)  |  [git.nju.edu.cn/wsr](https://git.nju.edu.cn/wsr)  |  [bbs.keinsci.com/?5840](http://bbs.keinsci.com/?5840)
 
